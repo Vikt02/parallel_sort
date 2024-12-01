@@ -1,7 +1,8 @@
 
-Запуск: cmake -B build && cmake --build build && ./build/parSort
+Запуск: ``` cmake -B build && cmake --build build && ./build/parSort ```
 
 Результат:
+```
 Correctness passed
 
 Par time, run 1: 6.4341 seconds.
@@ -19,3 +20,4 @@ Seq time, run 5: 22.2883 seconds.
 Sequence mid time: 22.4527
 
 Performance passed, perform = 3.46921
+```
